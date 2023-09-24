@@ -1,3 +1,20 @@
+pip install langchain
+pip install tiktoken
+pip install pypdf
+pip install faiss-gpu
+pip install transformers
+pip install InstructorEmbedding
+pip install sentence_transformers
+pip install accelerate
+pip install bitsandbytes
+pip install xformers
+pip install einops
+pip install bitsandbytes
+pip install git+https://github.com/huggingface/peft.git
+pip install safetensors
+pip install streamlit
+
+
 langchain==0.0.189
 chromadb==0.3.25
 openai==0.27.7
